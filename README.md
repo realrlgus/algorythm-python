@@ -11,3 +11,9 @@
 > 205 Isomorphic Strings [문제 링크](https://leetcode.com/problems/isomorphic-strings/)
 
 > 392 Is Subsequence [문제 링크](https://leetcode.com/problems/is-subsequence/)
+
+### Day 3 Linked List (2022-07-12)
+
+> 21 Merge Two Sorted Lists [문제 링크](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+> 206 Reverse Linked List [문제 링크](https://leetcode.com/problems/reverse-linked-list/)
