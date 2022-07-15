@@ -29,3 +29,9 @@
 > 121 Best Time to Buy and Sell Stock [문제 링크](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 > 409 Longest Palindrome [문제 링크](https://leetcode.com/problems/longest-palindrome/)
+
+### Day 6 Tree (2022-07-15)
+
+> 589 N-ary Tree Preorder Traversal [문제 링크](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+
+> 102 Binary Tree Level Order Traversal [문제 링크](https://leetcode.com/problems/binary-tree-level-order-traversal/)
