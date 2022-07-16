@@ -35,3 +35,9 @@
 > 589 N-ary Tree Preorder Traversal [문제 링크](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 
 > 102 Binary Tree Level Order Traversal [문제 링크](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+### Day 7 Binary Search (2022-07-15)
+
+> 704 Binary Search [문제 링크](https://leetcode.com/problems/binary-search/)
+
+> 278 First Bad Version [문제 링크](https://leetcode.com/problems/first-bad-version/)
